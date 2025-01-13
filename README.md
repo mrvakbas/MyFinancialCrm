@@ -18,4 +18,9 @@ Bu projede FinancalCrm Uygulaması oluşturdugumuz formlarda veri tabanından ve
 Bu projede FinancalCrm Uygulaması oluşturdugumuz formlarda veri tabanından verileri çektik grafiklerle dashboard ekranı yaptık.
 ***
 
+![](https://i.hizliresim.com/p8u4x14.jpg)
+![](https://i.hizliresim.com/qlilw08.jpg)
+![](https://i.hizliresim.com/fx0meld.jpg)
+![](https://i.hizliresim.com/o59zpt3.jpg)
+
 2024 © [Merve AKBAŞ](https://mrvakbas.com)
