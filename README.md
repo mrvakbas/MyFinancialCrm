@@ -19,8 +19,8 @@ Bu projede FinancalCrm Uygulaması oluşturdugumuz formlarda veri tabanından ve
 ***
 
 ![](https://media.licdn.com/dms/image/v2/D4D22AQHRX214I9d58Q/feedshare-shrink_1280/B4DZRg.rZMHcAk-/0/1736793831466?e=1749686400&v=beta&t=3UWNsv4-2Ht4VOvGizYLfHrhiHQqBs8c8fvKR-6UyCA)
-![](https://drive.google.com/file/d/1FmcUw7tQkIdvbk4THFBtgvJPxqvWnOz3/view?usp=drive_link)
-![](https://drive.google.com/file/d/1D07v8um1X_S7kdRBbk6HmtCgZSyWxDAk/view?usp=drive_link)
-![](https://drive.google.com/file/d/1tDq2_UhMspliNCZE2Gs5SQk-Xgihn8UQ/view?usp=drive_link)
+![](https://media.licdn.com/dms/image/v2/D4D22AQEp6l26FEseGg/feedshare-shrink_2048_1536/B4DZRg.rZgHkAs-/0/1736793831744?e=1749686400&v=beta&t=WkZaVDivFkPDQleqnt0CMTJhZjuesE3Q6q95yfo1vc4)
+![](https://media.licdn.com/dms/image/v2/D4D22AQHoQ5WAMXDJ4w/feedshare-shrink_2048_1536/B4DZRg.raBHkAo-/0/1736793832115?e=1749686400&v=beta&t=ZuHiVNr6Q9iT_38v9Z-Ms-NTigcqMFJazwGpFp3s9wk)
+![](https://media.licdn.com/dms/image/v2/D4D22AQE25JTuztqX2g/feedshare-shrink_2048_1536/B4DZRg.rZ7GUA0-/0/1736793831768?e=1749686400&v=beta&t=YVTiGDj7s_cSdsgL1AVvk0Cf_ikSw8uBAEoet7VdvSI)
 
 2024 © [Merve AKBAŞ](https://mrvakbas.com)
